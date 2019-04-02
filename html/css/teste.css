@@ -1,0 +1,126 @@
+body{
+	font-family: 'Source code pro',Calibri,serif;
+	margin: 0px;
+	padding: 0px;
+	background-image:url("photo/fond1.png");
+	background-repeat:no-repeat; 
+	background-size:cover; 
+}
+.img1{width:150px;height:100px;}
+.h1{font-weight:bold;}
+.h2{
+}
+.affiche{whidth: 400px; height:800px;
+}
+.band{width:200px; height:200px;}
+.img2{width:200px; height:200px;}
+.setsuna{width:200px; height:100px;}
+.img3{width:250px; height:200px;}
+.img4{width:250px; height:200px;}
+.police{font-size:60px;}
+.police1{font-size:30px;}
+.img5{width:200px; height:150px;}
+.img6{width:200px; height:200px;}
+.img7{width:300px; height:250px;}
+.img8{width:200px; height:200px;}
+.fleche3{width:100px;height:100px;}
+.nom{font-size:40px;}
+.h2{font-size:30px;}
+.h3{color: red;}
+.fleche{ color: white ;}
+.fleche1 {width: 350px; height: 360px;}
+.fleche2 {width: 360px; height: 310px;
+}
+.police3 {color:#173914;font-size:100px;margin: auto; }
+.police4{color:#173914; font-size:30px;margin: auto;}
+.Rose{position: absolute;top: -400%; left: -350px; width: 800px; height: 1100px;}
+nav {
+	width: 10%; height: 10%; 
+}
+nav > ul{
+	margin: 50px;
+	padding: 50px;
+}
+nav > ul > li{
+	float: center;
+}
+nav li{
+	list-style-type: none;
+}
+.submenu1{
+	display: none;
+}
+nav > ul > li{
+	float: center;
+	position: relative;
+}
+nav > ul >li{
+	float: center;
+	position: relative;
+}
+nav > ul::after{
+	content:"";
+	display: block;
+	clear: both;
+}
+nav a{
+	display: inline-block;
+	texte-decoration: none;
+}
+nav > ul > li > a{
+	padding : 50px 70px;
+	color: #FFF;
+}
+nav li:hover .submenu1{
+	display: inline-block;
+	position: absolute;
+	top: -320%;
+	left: -128px;
+	padding: 0px;
+	z-index: 1000000;
+}
+.submenu1 li a{
+	padding:15px 30px ;
+	font-size: 13px;
+	width: 270px;
+}
+nav li:hover .submenu2{
+	display: inline-block;
+	position: absolute;
+	top: 91%;
+	left: 350px;
+	padding: 0px;
+	z-index: 1000000.
+}
+.submenu2 li a{
+	padding:15px 30px ;
+	font-size: 13px;
+	width: 270px;
+}
+nav li:hover .submenu3{
+	display: inline-block;
+	position: absolute;
+	top: 0.5%;
+	left: -693px;
+	padding: 0px;
+	z-index: 1000000.
+}
+.submenu3 li a{
+	padding:15px 30px ;
+	font-size: 13px;
+	width: 270px;
+}
+nav li:hover .submenu4{
+	display: inline-block;
+	position: absolute;
+	top: 88%;
+	left: 343px;
+	padding: 0px;
+	z-index: 1000000.
+}
+.submenu4 li a{
+	padding:15px 30px ;
+	font-size: 13px;
+	width: 270px;
+}
+

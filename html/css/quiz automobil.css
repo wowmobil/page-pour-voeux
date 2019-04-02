@@ -1,0 +1,22 @@
+body{background-image:url("fond1.png");
+background-repeat:no-repeat; background-size:cover; }
+.img1{width:100px;height:100px;}
+.h1{font-weight:bold;}
+.band{width:200px; height:200px;}
+.img2{width:200px; height:200px;}
+.setsuna{width:200px; height:100px;}
+.img3{width:250px; height:200px;}
+.img4{width:250px; height:200px;}
+.police{font-size:60px;}
+.police1{font-size:30px;}
+.img5{width:200px; height:150px;}
+.img6{width:200px; height:200px;}
+.img7{width:300px; height:250px;}
+.img8{width:200px; height:200px;}
+.nom{font-size:40px;}
+.h2{font-size:30px;}
+.h3{color: red;}
+.fleche{ color: white ;}
+.fleche1 {width: 150px; height: 120px;}
+.police3 {color:#173914;font-size:100px;margin: auto; }
+.police4{color:#173914; font-size:30px;margin: auto;}
